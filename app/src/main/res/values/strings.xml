@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="reload_weather">Reload weather</string>
+    <string name="generic_error">An error has occurred.</string>
+    <string name="error_detail">Error detail:</string>
+    <string name="today">Today</string>
+    <string name="request_permissions">Request permissions</string>
+    <string name="location_permissions_rationale">The location is important for this app. Please grant the permission.</string>
+    <string name="location_permissions_message">Location permission required for this feature to be available. Please grant the permission.</string>
+</resources>
